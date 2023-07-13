@@ -6,11 +6,11 @@
     line-height: 18px;
     text-decoration: none;
     transition: opacity 0.5s linear;
-    cursor: pointer
+    cursor: pointer;
 }
 
 .footer__link:hover {
-    opacity: 0.800000011920929;;
+    opacity: 0.800000011920929;
 }
 
 
