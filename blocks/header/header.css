@@ -1,26 +1,21 @@
 .header {
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
     max-width: 1184px;
-    padding-top: 28px;
+
     padding-left: 48px;
     padding-right: 48px;
 }
 
 @media (min-width: 768px) and (max-width: 1023px){
     .header {
-        padding-top: 28px;
-        padding-left: 24px;
-        padding-right: 24px;
+        padding: 28px 24px 0 24px;
     }
     
 }
 
 @media (min-width: 320px) and (max-width: 767px){
     .header {
-        padding-top: 16px;
-        padding-left: 16px;
-        padding-right: 16px;
+        padding: 16px 16px 0 16px;
     }
 }

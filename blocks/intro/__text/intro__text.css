@@ -6,5 +6,13 @@
     font-weight: 400;
     line-height: 163%;
     padding-top: 40px;
-    font-family: Inter;
+}
+
+@media screen and (max-width: 720px) {
+    .intro__text {
+        margin-left: 24px;
+        margin-right: 24px;
+
+    }
+
 }
