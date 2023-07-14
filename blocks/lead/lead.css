@@ -3,7 +3,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-family: Inter, Arial, sans-serif;
 }
 
 @media (min-width: 1024px) and (max-width: 1279px) {
