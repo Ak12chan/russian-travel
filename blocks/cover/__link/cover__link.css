@@ -6,6 +6,7 @@
     background-image: url("../../../images/cover-trains.jpg");
     z-index: 2;
     width: 100%;
+    background-size: cover;
     cursor: pointer;
     background-position: center;
     position: relative;
