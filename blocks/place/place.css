@@ -32,7 +32,7 @@
     grid-template-columns: 1fr;
     grid-template-rows: repeat(4, minmax(min-content, max-content));
     margin-top: 50px;
-    gap: 25px;
+    gap: 32px;
   }
 
   .place:first-child {
