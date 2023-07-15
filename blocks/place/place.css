@@ -22,17 +22,22 @@
 @media screen and (max-width: 768px) {
     .place {
         grid-template-columns: 340px 1fr;
-        margin-left: 24px;
-        column-gap: 28px;
         margin-bottom: 73px;
-        gap: 25px;
+        gap: 48px 28px
+
     }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 640px) {
     .place {
         grid-template-columns: 1fr;
         grid-template-rows: repeat(4, minmax(min-content, max-content));
-        margin: 0;
+        margin-top: 50px;
+        gap: 25px;
     }
+
+    .place:first-child {
+        margin-top: 0;
+    }
+
 }

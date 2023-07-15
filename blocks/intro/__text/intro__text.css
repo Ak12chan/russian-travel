@@ -8,11 +8,3 @@
     padding-top: 40px;
 }
 
-@media screen and (max-width: 720px) {
-    .intro__text {
-        margin-left: 24px;
-        margin-right: 24px;
-
-    }
-
-}
