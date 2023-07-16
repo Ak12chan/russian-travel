@@ -19,7 +19,7 @@
 
 @media (min-width: 320px) and (max-width: 767px) {
   .lead {
-    margin: 48px 2px 0 2px;
+    margin: 48px 16px 0 16px;
   }
 
 }
