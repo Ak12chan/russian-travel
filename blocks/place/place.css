@@ -34,8 +34,4 @@
     margin-top: 50px;
     gap: 32px;
   }
-
-  .place:first-child {
-    margin-top: 0;
-  }
 }
